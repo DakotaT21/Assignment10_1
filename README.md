@@ -12,6 +12,7 @@ Printing the object gives a sentence descriptor using this information
 The bonus method is called present_day\
 
 Variables
+
 movies - A list to add movie objects, outside of classes
 
 identifier - The title of the movie, in the parent class
